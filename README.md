@@ -1,10 +1,10 @@
 Career developed in the Information Technology area with extensive experience in software development, infrastructure, projects, people management and software quality management, following the practices of the MPS-BR, CMMI and ITIL models. Graduated in Law, MBA in Systems Engineering and specializations in Project and Systems Management and Test Engineering, more than 30 years of experience in multinational companies.
-	Certified Scrum Master (PSM I);
-	Management and Leadership over 40 people, in multidisciplinary squads;
-	In-depth knowledge of business management, finance and use of technology to improve processes and productivity. Facilitator and conciliatory profile;
-	Experienced in IT strategy, implementation and updating of different ERP systems, systems development, apps, web services, microservices, containerization, messaging, APIs, BI, LGPD and Infrastructure;
-	MPS.br and software quality process (MPS.br and CMMi) implementer;
-	Project management following PMI practices and Agile Methodologies (Scrum), demand control, information security, contingencies and high availability, feasibility analysis, negotiation of deadlines and scope, ensuring compliance, costs and quality. Deep knowledge of the Capex and Opex financial impacts for IT projects and ROI studies, development of strategies, business plans and definition and monitoring of budget plans (budget), implementation of the master plan for the IT, technical and financial areas;
-	Monitoring of results and performance, identifying risks and deviations and proposing measures for corrections, aiming to contribute to the decision-making process and compliance with established goals, control and review of KPIs and OKRs, construction of business plans, contract management and demands and controls for new investments, human resources management (feedbacks and 1to1), team engagement, development of growth and individual plans;
-	In-depth technical knowledge in .Net Framework, C #, Vb.Net, React, Node.js, SQL database, version control with TFS, Jira, Git and BitBucket and Cloud AWS;
-	Knowledge and use of systems: Protheus, SAP B1, BETONMIX, BETONTEC and SIL.
+Certified Scrum Master (PSM I);
+Management and Leadership over 40 people, in multidisciplinary squads;
+In-depth knowledge of business management, finance and use of technology to improve processes and productivity. Facilitator and conciliatory profile;
+Experienced in IT strategy, implementation and updating of different ERP systems, systems development, apps, web services, microservices, containerization, messaging, APIs, BI, LGPD and Infrastructure;
+MPS.br and software quality process (MPS.br and CMMi) implementer;
+Project management following PMI practices and Agile Methodologies (Scrum), demand control, information security, contingencies and high availability, feasibility analysis, negotiation of deadlines and scope, ensuring compliance, costs and quality. Deep knowledge of the Capex and Opex financial impacts for IT projects and ROI studies, development of strategies, business plans and definition and monitoring of budget plans (budget), implementation of the master plan for the IT, technical and financial areas;
+Monitoring of results and performance, identifying risks and deviations and proposing measures for corrections, aiming to contribute to the decision-making process and compliance with established goals, control and review of KPIs and OKRs, construction of business plans, contract management and demands and controls for new investments, human resources management (feedbacks and 1to1), team engagement, development of growth and individual plans;
+In-depth technical knowledge in .Net Framework, C #, Vb.Net, React, Node.js, SQL database, version control with TFS, Jira, Git and BitBucket and Cloud AWS;
+Knowledge and use of systems: Protheus, SAP B1, BETONMIX, BETONTEC and SIL.
